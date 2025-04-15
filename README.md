@@ -6,7 +6,7 @@ This file shows the distribution of audio chunks across all speaker folders. Eac
 ________________________________________
 
 ### Speaker spk0
-![Speaker spk0 Distribution](./speaker_distributions_report/speaker_distributions/spk0.png)
+![Speaker spk0 Distribution](speaker_distributions/spk0.png)
 
 folder spk0
 audio_33_33min_ =>    1 (  0.2%)
